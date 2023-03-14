@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/linkedIn-Julio%20Buitrago-1DB954?style=flat-square&logo=linkedin&logoColor=white&color=teal" alt="LinkedIn" title="LinkedIn">
 </a>
 
-![mi perfil](https://github.com/jucesbuitrago/jucesbuitrago/blob/main/poster.png)
+![mi perfil](https://github.com/jucesbuitrago/jucesbuitrago/blob/main/poster.jpg)
 
 <p><em>Frontend Developer</em></p>
 
