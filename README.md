@@ -16,6 +16,8 @@
         <img src="https://img.shields.io/badge/linkedIn-Julio%20Buitrago-1DB954?style=flat-square&logo=linkedin&logoColor=white&color=teal" alt="LinkedIn" title="LinkedIn">
 </a>
 
+![mi perfil](https://github.com/jucesbuitrago/jucesbuitrago/blob/main/graphic.png)
+
 <!--
 **jucesbuitrago/jucesbuitrago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
