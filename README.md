@@ -7,16 +7,13 @@
 <div>
 
 ![](https://img.shields.io/github/followers/jucesbuitrago?label=follow&logo=github&style=flat-square)
-
 ![GitHub User's stars](https://img.shields.io/github/stars/jucesbuitrago?label=%E2%AD%90GitHub%20stars&style=flat-square)
-
 ![](https://komarev.com/ghpvc/?username=jucesbuitrago&style=flat-square&color=008080)
-
  <a href="https://www.linkedin.com/in/juliocesarbuitrago/">
         <img src="https://img.shields.io/badge/linkedIn-Julio%20Buitrago-1DB954?style=flat-square&logo=linkedin&logoColor=white&color=teal" alt="LinkedIn" title="LinkedIn">
 </a>
 
-![mi perfil](https://github.com/jucesbuitrago/jucesbuitrago/blob/main/graphic.png)
+![mi perfil](https://github.com/jucesbuitrago/jucesbuitrago/blob/main/poster.png)
 
 <!--
 **jucesbuitrago/jucesbuitrago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
