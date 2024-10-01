@@ -15,7 +15,7 @@
 
 ![mi perfil](https://github.com/jucesbuitrago/jucesbuitrago/blob/main/poster.jpg)
 
-<p><em>Frontend Developer</em></p>
+<p><em>Fullstack Developer</em></p>
 
 ```JS
 const jucesbuitrago = {
@@ -35,3 +35,5 @@ const jucesbuitrago = {
 <br>
 
 <img alt="Juces Buitrago" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucesbuitrago&show_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+
+<a href="https://github.com/jucesbuitrago"></a>
